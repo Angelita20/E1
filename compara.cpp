@@ -15,4 +15,8 @@ int main(){
 
   }
   return 0;
+
 }
+
+// Creado por Angie Denisse Pacheco Ayovi
+// 1ERO TICS A
